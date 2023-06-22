@@ -1,4 +1,4 @@
-# EXP 26: E-COMMERCE SHOPPING APPLICATION
+# EXP 26 - E-COMMERCE SHOPPING APPLICATION
 
 ## AIM:
  To create a E-commerce Shopping application using React,SpringBoot and SQL.
